@@ -1,0 +1,9 @@
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\bin\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.deps.json
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\bin\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.dll
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\bin\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.pdb
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.csprojAssemblyReference.cache
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.AssemblyInfoInputs.cache
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.AssemblyInfo.cs
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.dll
+E:\Programming\C# Project\DevSkill.ProjectDeathStar\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\netcoreapp2.1\DevSkill.ProjectDeathStar.BattleEngine.pdb
